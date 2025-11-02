@@ -1,0 +1,6 @@
+id,name,category,price,weight_kg,battery_life_hours,ram_gb,storage_gb,cpu,description
+LAP001,Lenovo IdeaPad Slim 3,Laptop,28999,1.6,7.5,8,512,Intel i3 11th Gen,Lightweight everyday laptop suitable for students and travel.
+LAP002,HP 14s,Laptop,32999,1.46,9,8,256,Intel i5 12th Gen,Portable laptop with good performance for coding and office tasks.
+LAP003,Acer Aspire 5,Laptop,39999,1.7,8,16,512,AMD Ryzen 5 5500U,Balanced performance for multitasking and development work.
+LAP004,Asus VivoBook 15,Laptop,25999,1.8,6.5,8,512,Intel i3 10th Gen,Budget friendly laptop for basic office and browsing work.
+LAP005,Dell Inspiron 3511,Laptop,34999,1.85,7,8,1000,Intel i5 11th Gen,Solid productivity laptop with large storage and smooth usage.
