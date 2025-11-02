@@ -41,17 +41,29 @@ SpecSense AI builds an **intelligence layer** over your product catalog:
 
 SpecSense-AI/
 ├── app.py
+
 ├── requirements.txt
+
 ├── .env
+
 ├── data/
+
 │   └── products.csv
+
 ├── specsense/
+
 │   ├── extractor.py
+
 │   ├── retriever.py
+
 │   ├── ranker.py
+
 │   ├── utils.py
+
 │   └── __init__.py
+
 └── tests/
+
     └── test_pipeline.py
 
 ## 🚀 Run
